@@ -1,0 +1,12 @@
+{
+  "name": "mi-tienda",
+  "version": "1.0.0",
+  "description": "Herramienta para manejar productos de una tienda en linea desde la terminal",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Facundo Anzoategui",
+  "license": "MIT",
+  "type": "module"
+}

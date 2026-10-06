@@ -1,0 +1,17 @@
+# Dependencias
+node_modules/
+
+# Logs
+npm-debug.log
+yarn-error.log
+*.log
+
+# Archivos temporales
+*.tmp
+
+# Configuración local
+.env
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
